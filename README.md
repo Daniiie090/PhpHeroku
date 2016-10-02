@@ -19,3 +19,9 @@ $ git push heroku master
 $ heroku open
 
 ```
+
+or simple click this button to have quick launch
+
+<a href="https://heroku.com/deploy?template=https://github.com/mailtoharshit/PhpHeroku.git">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+</a>
